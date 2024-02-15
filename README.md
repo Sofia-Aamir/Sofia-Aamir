@@ -1,8 +1,7 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
-
 <h1 align="center">Hi 👋, I'm Sofia Aamir</h1>
 <h3 align="center">Software Engineer-Frontend Web Developer And Graphic Designer</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*PXf5ge7QCN9Ga_CL.gif"/>
+<img width="400" align="right" src="https://miro.medium.com/v2/resize:fit:1358/0*PXf5ge7QCN9Ga_CL.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofia-aamir&label=Profile%20views&color=0e75b6&style=flat" alt="sofia-aamir" /> </p>
 
@@ -23,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofia-aamir&show_icons=true&locale=en&layout=compact" alt="sofia-aamir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofia-aamir&show_icons=true&locale=en" alt="sofia-aamir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofia-aamir&" alt="sofia-aamir" /></p>
