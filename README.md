@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofia-aamir&label=Profile%20views&color=0e75b6&style=flat" alt="sofia-aamir" /> </p>
 
-- 👨‍💻 Check Out my Portfolio [https://sofiaaamir.dorik.io/](https://sofiaaamir.dorik.io/)
+- 👨‍💻 Check Out my Portfolio [https://sofiaaamir.my.canva.site/portfolio)
 
 - 📝 Check Out my CV [https://drive.google.com/file/d/1DxaqkTKXqNEUnB6mnb6kTb2ZvPZCitFm/view?usp=drive_link](https://drive.google.com/file/d/1DxaqkTKXqNEUnB6mnb6kTb2ZvPZCitFm/view?usp=drive_link)
 
