@@ -8,7 +8,7 @@
 - 👨‍💻 Check Out my Portfolio
 https://my-portfolio-psi-nine-25.vercel.app/
 
-- 📝 Check Out my CV [https://drive.google.com/file/d/1DxaqkTKXqNEUnB6mnb6kTb2ZvPZCitFm/view?usp=drive_link](https://drive.google.com/file/d/1DxaqkTKXqNEUnB6mnb6kTb2ZvPZCitFm/view?usp=drive_link)
+- 📝 Check Out my CV [https://drive.google.com/file/d/1yPEoThzilwszfhWHHa5qZBcQKjga9OtQ/view?usp=drive_link)
 
 - 📫 How to reach me **sofiaaamir2004@gmail.com**
 
